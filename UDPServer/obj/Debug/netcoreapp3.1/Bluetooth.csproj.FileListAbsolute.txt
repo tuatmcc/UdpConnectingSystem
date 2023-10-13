@@ -1,0 +1,14 @@
+C:\Users\Mr.W\Documents\Bluetooth\obj\Debug\netcoreapp3.1\Bluetooth.csproj.AssemblyReference.cache
+C:\Users\Mr.W\Documents\Bluetooth\obj\Debug\netcoreapp3.1\Bluetooth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mr.W\Documents\Bluetooth\obj\Debug\netcoreapp3.1\Bluetooth.AssemblyInfoInputs.cache
+C:\Users\Mr.W\Documents\Bluetooth\obj\Debug\netcoreapp3.1\Bluetooth.AssemblyInfo.cs
+C:\Users\Mr.W\Documents\Bluetooth\obj\Debug\netcoreapp3.1\Bluetooth.csproj.CoreCompileInputs.cache
+C:\Users\Mr.W\Documents\Bluetooth\bin\Debug\netcoreapp3.1\Bluetooth.exe
+C:\Users\Mr.W\Documents\Bluetooth\bin\Debug\netcoreapp3.1\Bluetooth.deps.json
+C:\Users\Mr.W\Documents\Bluetooth\bin\Debug\netcoreapp3.1\Bluetooth.runtimeconfig.json
+C:\Users\Mr.W\Documents\Bluetooth\bin\Debug\netcoreapp3.1\Bluetooth.runtimeconfig.dev.json
+C:\Users\Mr.W\Documents\Bluetooth\bin\Debug\netcoreapp3.1\Bluetooth.dll
+C:\Users\Mr.W\Documents\Bluetooth\bin\Debug\netcoreapp3.1\Bluetooth.pdb
+C:\Users\Mr.W\Documents\Bluetooth\obj\Debug\netcoreapp3.1\Bluetooth.dll
+C:\Users\Mr.W\Documents\Bluetooth\obj\Debug\netcoreapp3.1\Bluetooth.pdb
+C:\Users\Mr.W\Documents\Bluetooth\obj\Debug\netcoreapp3.1\Bluetooth.genruntimeconfig.cache

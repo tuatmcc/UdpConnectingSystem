@@ -1,0 +1,5 @@
+C:\Users\Mr.W\Documents\Bluetooth\obj\Debug\netcoreapp3.0\Bluetooth.csproj.AssemblyReference.cache
+C:\Users\Mr.W\Documents\Bluetooth\obj\Debug\netcoreapp3.0\Bluetooth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mr.W\Documents\Bluetooth\obj\Debug\netcoreapp3.0\Bluetooth.AssemblyInfoInputs.cache
+C:\Users\Mr.W\Documents\Bluetooth\obj\Debug\netcoreapp3.0\Bluetooth.AssemblyInfo.cs
+C:\Users\Mr.W\Documents\Bluetooth\obj\Debug\netcoreapp3.0\Bluetooth.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+C:\Users\Mr.W\Documents\Bluetooth\bin\Debug\net6.0\Bluetooth.exe
+C:\Users\Mr.W\Documents\Bluetooth\bin\Debug\net6.0\Bluetooth.deps.json
+C:\Users\Mr.W\Documents\Bluetooth\bin\Debug\net6.0\Bluetooth.runtimeconfig.json
+C:\Users\Mr.W\Documents\Bluetooth\bin\Debug\net6.0\Bluetooth.dll
+C:\Users\Mr.W\Documents\Bluetooth\bin\Debug\net6.0\Bluetooth.pdb
+C:\Users\Mr.W\Documents\Bluetooth\obj\Debug\net6.0\Bluetooth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mr.W\Documents\Bluetooth\obj\Debug\net6.0\Bluetooth.AssemblyInfoInputs.cache
+C:\Users\Mr.W\Documents\Bluetooth\obj\Debug\net6.0\Bluetooth.AssemblyInfo.cs
+C:\Users\Mr.W\Documents\Bluetooth\obj\Debug\net6.0\Bluetooth.csproj.CoreCompileInputs.cache
+C:\Users\Mr.W\Documents\Bluetooth\obj\Debug\net6.0\Bluetooth.dll
+C:\Users\Mr.W\Documents\Bluetooth\obj\Debug\net6.0\refint\Bluetooth.dll
+C:\Users\Mr.W\Documents\Bluetooth\obj\Debug\net6.0\Bluetooth.pdb
+C:\Users\Mr.W\Documents\Bluetooth\obj\Debug\net6.0\Bluetooth.genruntimeconfig.cache
+C:\Users\Mr.W\Documents\Bluetooth\obj\Debug\net6.0\ref\Bluetooth.dll
